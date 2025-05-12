@@ -1,6 +1,5 @@
 streamlit
 numpy
-opencv-contrib-python
 opencv-python-headless
 keras
 efficientnet
