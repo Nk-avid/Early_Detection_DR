@@ -36,7 +36,7 @@ def build_model():
     return model
 
 # Load the pre-trained model weights
-model_path = r"A:\code\Early_Detection_DR\models\model.h5"
+model_path = "models/model.h5"
 model = build_model()
 model.load_weights(model_path)
 
