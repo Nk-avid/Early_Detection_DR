@@ -1,10 +1,11 @@
 streamlit
 numpy
-opencv-python-headless
 keras
 efficientnet
 fpdf
 pdfplumber
 pandas
 plotly
-tensorflow
+opencv-python-headless==4.5.5.64
+tensorflow==2.15.0
+keras==2.15.0
