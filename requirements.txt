@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python-headless
+keras
+efficientnet
+fpdf
+pdfplumber
+pandas
+plotly
+tensorflow
