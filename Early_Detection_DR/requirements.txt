@@ -1,6 +1,6 @@
 streamlit
 numpy
-opencv-python-headless
+opencv-contrib-python
 keras
 efficientnet
 fpdf
