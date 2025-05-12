@@ -7,3 +7,4 @@ fpdf
 pdfplumber
 pandas
 plotly
+tensorflow
